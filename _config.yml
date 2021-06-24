@@ -4,6 +4,7 @@ author: Shangzhi Huang
 avatar: /logo.png
 email: ngzhio@gmail.com
 
+url: "http://127.0.0.1:4000"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
